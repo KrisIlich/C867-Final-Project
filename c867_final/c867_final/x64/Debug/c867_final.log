@@ -1,0 +1,13 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\c867_final\roster.cpp(17,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\c867_final\roster.cpp(21,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\c867_final\roster.cpp(25,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\c867_final\roster.cpp(29,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\c867_final\roster.cpp(33,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\c867_final\roster.cpp(37,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\c867_final\roster.cpp(41,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\c867_final\roster.cpp(45,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  c867_final.vcxproj -> C:\Users\k_ili\OneDrive\Documents\WGU\c867 - C++ Final\c867_final\x64\Debug\c867_final.exe
